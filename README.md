@@ -1,2 +1,4 @@
 # Hello-World
-My very first repository on GitHub
+Hi!
+
+I'm a french junior web developper
